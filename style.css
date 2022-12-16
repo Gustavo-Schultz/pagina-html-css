@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    padding: 20px;
+    background-color: #0099CC;
+    color: #fff;
+    text-align: center;
+    line-height: 10px;
+    border-bottom: 5px solid #0086b3;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.titulo {
+    color: #0099CC;
+}
+
+.linha {
+    border: 2px solid #0099CC;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.icone {
+    max-width: 50px;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+.espacamento {
+    line-height: 10px;
+}
+
+.avatar img {
+
+    max-width: 150px;
+    border-radius: 50%;
+    border: 8px solid #0086b3;
+    margin-top: -120px;
+    margin-left: 200px;
+    position: absolute;
+}
+
+.linha-1 {
+    height: 20px;
+    background-color: #0086b3;
+}
+
+.linha-2 {
+    height: 50px;
+    background-color: #0099CC;
+}
